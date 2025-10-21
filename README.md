@@ -1,3 +1,8 @@
+** What? **
+
+`ombud` is a digital bureaucratic advocate designed to make institutions human again.
+It guides people through complex systems—like the DMV, hospitals, or courthouses—with clear explanations, real-time routing, and personalized procedural help. Each user gets an ombuddy, a smart, empathetic assistant that speaks plain language, checks documentation, and ensures every interaction is efficient, fair, and fully understood.
+
 | **Domain / Advocate Type**      | **Description**                                                                     | **Key Benefits**                                                                                                                                                                                                                                 |
 | ------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **DMV / Transportation**        | Guides visitors through vehicle registration, licensing, and ID processes.          | • Eliminates line confusion<br>• Detects missing documents early<br>• Reduces clerk workload<br>• Provides real-time routing<br>• Multilingual support for accessibility<br>• Tracks satisfaction metrics                                        |
