@@ -1,4 +1,5 @@
 **What?**
+<img width="256" alt="ombud" src="https://github.com/user-attachments/assets/7bcfc58c-e2e4-408f-967e-0c1b8ba98374" />
 
 `ombud` is a digital bureaucratic advocate designed to make institutions human again.
 It guides people through complex systems—like the DMV, hospitals, or courthouses—with clear explanations, real-time routing, and personalized procedural help. Each user gets an ombuddy, a smart, empathetic assistant that speaks plain language, checks documentation, and ensures every interaction is efficient, fair, and fully understood.
